@@ -25,5 +25,5 @@ Solidarity-based insurance platform with a modern web stack (Python, JavaScript,
 ### Clone repository
 
 ```bash
-git clone https://github.com/<PadJey>/pagamory-platform.git
-cd pagamory-platform
+git clone [https://github.com/PadJey/Pagamory-api]
+cd pagamory-api
